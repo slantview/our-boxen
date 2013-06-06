@@ -61,16 +61,28 @@ node default {
   }
 
   # node versions
-  include nodejs::v0_4
-  include nodejs::v0_6
-  include nodejs::v0_8
   include nodejs::v0_10
 
   # default ruby versions
-  include ruby::1_8_7
-  include ruby::1_9_2
   include ruby::1_9_3
   include ruby::2_0_0
+  
+  # League of Legends FTW!
+  include league_of_legends::na
+
+  # Vagrant
+  include virtualbox
+  include vagrant
+
+  # CentOS 6.4
+  vagrant::box { 'CentOS-6.4-x86_64-v20130427':
+    source => 'http://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.4-x86_64-v20130427.box'
+  }
+
+  # CentOS 6.2 (Riot)
+  vagrant::box { 'RiotProd-CentOS-6.2-x86_64-minimal':
+    source => 'http://artifacts.riotgames.com/RiotProd-CentOS-6.2-x86_64-minimal.box'
+  }
 
   # common, useful packages
   package {
