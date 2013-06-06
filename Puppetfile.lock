@@ -84,11 +84,6 @@ GITHUBTARBALL
     keepassx (1.0.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-league_of_legends
-  specs:
-    league_of_legends (1.1.2)
-
-GITHUBTARBALL
   remote: boxen/puppet-mysql
   specs:
     mysql (1.0.0)
@@ -197,6 +192,11 @@ GITHUBTARBALL
   remote: puppetlabs/puppetlabs-stdlib
   specs:
     stdlib (4.0.2)
+
+GITHUBTARBALL
+  remote: slantview/puppet-league_of_legends
+  specs:
+    league_of_legends (1.1.2)
 
 GITHUBTARBALL
   remote: slantview/puppet-sublime_text
