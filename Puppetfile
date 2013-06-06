@@ -30,11 +30,48 @@ github "repository", "2.0.2"
 github "ruby",       "4.1.0"
 github "stdlib",     "4.0.2", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
+
 github "league_of_legends", "1.1.2"
-github "sublime_text", "1.2.0", :repo => "slantview/puppet-sublime_text"
-github "virtualbox", "1.0.3"
-github "vagrant", "2.0.8", :repo => "slantview/puppet-vagrant"
+
+github "sublime_text","1.2.0", :repo => "slantview/puppet-sublime_text"
+github "virtualbox",  "1.0.3"
+github "vagrant",     "2.0.8", :repo => "slantview/puppet-vagrant"
+
+github "xquartz",     "1.0.0"
+github "sysctl",      "1.0.0"
+
+github "python",      "1.1.1"
+github "mysql",       "1.0.0"
+github "postgresql",  "1.0.0"
+github "wget",        "1.0.0"
+
+github "chrome",      "1.1.0"
+github "firefox",     "1.0.1", :repo => "FinalAngel/puppet-firefox"
+github "skype",       "1.0.2", :repo => "FinalAngel/puppet-skype"
+github "vlc",         "1.0.0"
+github "dropbox",     "1.0.0"
+github "onepassword", "1.0.0"
+github "things",      "1.0.0"
+github "caffeine",    "1.0.0"
+github "spotify",     "1.0.0"
+
+# development
+#mod "firefox", :git => "https://github.com/FinalAngel/puppet-firefox.git", :ref => "master"
 
 
-# Optional/custom modules. There are tons available at
-# https://github.com/boxen.
+
+# missing
+# google-drive
+# reeder
+# adium
+# limechat
+# PyCharm
+# Tower
+# Harvest
+# pgAdmin3
+# MySQL Workbench
+# Transmit
+# Kaleidoscope
+# Skitch
+# iWork
+# Photoshop & Stuff
