@@ -33,7 +33,8 @@ github "sudo",       "1.0.0"
 github "league_of_legends", "1.1.2"
 github "sublime_text", "1.2.0", :repo => "slantview/puppet-sublime_text"
 github "virtualbox", "1.0.3"
-github "vagrant", "2.0.7"
+github "vagrant", "2.0.8", :repo => "slantview/puppet-vagrant"
+
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
