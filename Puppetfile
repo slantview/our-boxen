@@ -52,6 +52,7 @@ github "dropbox",     "1.1.0"
 github "spotify",     "1.0.0"
 github "adium",       "1.1.1"
 github "keepassx",    "1.0.0"
+github "skype",       "1.0.2"
 
 
 # missing
