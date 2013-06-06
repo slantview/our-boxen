@@ -59,6 +59,16 @@ GITHUBTARBALL
     sudo (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-vagrant
+  specs:
+    vagrant (2.0.7)
+
+GITHUBTARBALL
+  remote: boxen/puppet-virtualbox
+  specs:
+    virtualbox (1.0.3)
+
+GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
   specs:
     inifile (0.9.0)
@@ -89,4 +99,6 @@ DEPENDENCIES
   stdlib (= 4.0.2)
   sublime_text (= 1.2.0)
   sudo (= 1.0.0)
+  vagrant (= 2.0.7)
+  virtualbox (= 1.0.3)
 
