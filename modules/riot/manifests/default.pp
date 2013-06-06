@@ -13,21 +13,26 @@ class riot::default {
   include firefox
   include skype
   include vlc
-  #include caffeine
-  include sublime_text
+  include caffeine
   include adium
+  include alfred
+  include skitch
+  include hipchat
+  include dropbox
+  include colloquy
 
-  # custom apps
-  #include harvest
-  #include hipchat
 
   # League of Legends 
   include league_of_legends::na
 
-  #include tower
+  # dev tools
+  include phpstorm
+  include csshx
+  include tower
+  include sublime_text
 
-  # Vagrant
   include virtualbox
+  include vmware_fusion
   include vagrant
 
   # CentOS 6.4

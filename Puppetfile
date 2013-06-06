@@ -53,12 +53,19 @@ github "spotify",     "1.0.0"
 github "adium",       "1.1.1"
 github "keepassx",    "1.0.0"
 github "skype",       "1.0.2"
-
+github "alfred",      "1.1.0"
+github "caffeine",    "1.0.0"
+github "tower",       "1.0.0"
+github "skitch",      "1.0.1"
+github "hipchat",     "1.0.4"
+github "colloquy",    "1.0.0"
+github "phpstorm",    "1.0.3"
+github "csshx",       "1.0.0"
+github "vmware_fusion","1.0.0"
 
 # missing
 # google-drive
 # reeder
 # Kaleidoscope
-# Skitch
 # iWork
 # Photoshop & Stuff
