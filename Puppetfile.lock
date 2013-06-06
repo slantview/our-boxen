@@ -74,6 +74,11 @@ GITHUBTARBALL
     hub (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-intellij
+  specs:
+    intellij (1.2.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-keepassx
   specs:
     keepassx (1.0.0)
@@ -122,6 +127,11 @@ GITHUBTARBALL
   remote: boxen/puppet-ruby
   specs:
     ruby (4.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-rubymine
+  specs:
+    rubymine (1.0.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-skitch
@@ -215,6 +225,7 @@ DEPENDENCIES
   homebrew (= 1.1.2)
   hub (= 1.0.0)
   inifile (= 0.9.0)
+  intellij (= 1.2.0)
   keepassx (= 1.0.0)
   league_of_legends (= 1.1.2)
   mysql (= 1.0.0)
@@ -225,6 +236,7 @@ DEPENDENCIES
   python (= 1.1.1)
   repository (= 2.0.2)
   ruby (= 4.1.0)
+  rubymine (= 1.0.1)
   skitch (= 1.0.1)
   skype (= 1.0.2)
   spotify (= 1.0.0)
