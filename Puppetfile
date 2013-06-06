@@ -46,31 +46,17 @@ github "postgresql",  "1.0.0"
 github "wget",        "1.0.0"
 
 github "chrome",      "1.1.0"
-github "firefox",     "1.0.1", :repo => "FinalAngel/puppet-firefox"
-github "skype",       "1.0.2", :repo => "FinalAngel/puppet-skype"
-github "vlc",         "1.0.0"
-github "dropbox",     "1.0.0"
-github "onepassword", "1.0.0"
-github "things",      "1.0.0"
-github "caffeine",    "1.0.0"
+github "firefox",     "1.0.6"
+github "vlc",         "1.0.1"
+github "dropbox",     "1.1.0"
 github "spotify",     "1.0.0"
-
-# development
-#mod "firefox", :git => "https://github.com/FinalAngel/puppet-firefox.git", :ref => "master"
-
+github "adium",       "1.1.1"
+github "keepassx",    "1.0.0"
 
 
 # missing
 # google-drive
 # reeder
-# adium
-# limechat
-# PyCharm
-# Tower
-# Harvest
-# pgAdmin3
-# MySQL Workbench
-# Transmit
 # Kaleidoscope
 # Skitch
 # iWork
