@@ -29,6 +29,11 @@ GITHUBTARBALL
     hub (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-league_of_legends
+  specs:
+    league_of_legends (1.1.2)
+
+GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.4.0)
@@ -63,6 +68,11 @@ GITHUBTARBALL
   specs:
     stdlib (4.0.2)
 
+GITHUBTARBALL
+  remote: slantview/puppet-sublime_text
+  specs:
+    sublime_text (1.2.0)
+
 DEPENDENCIES
   boxen (= 2.1.0)
   dnsmasq (= 1.0.0)
@@ -71,10 +81,12 @@ DEPENDENCIES
   homebrew (= 1.1.2)
   hub (= 1.0.0)
   inifile (= 0.9.0)
+  league_of_legends (= 1.1.2)
   nginx (= 1.4.0)
   nodejs (= 2.2.0)
   repository (= 2.0.2)
   ruby (= 4.1.0)
   stdlib (= 4.0.2)
+  sublime_text (= 1.2.0)
   sudo (= 1.0.0)
 
