@@ -31,7 +31,7 @@ github "ruby",       "4.1.0"
 github "stdlib",     "4.0.2", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 
-github "league_of_legends", "1.1.3", :repo => "slantview/puppet-league_of_legends"
+github "league_of_legends", "1.1.4", :repo => "slantview/puppet-league_of_legends"
 
 github "sublime_text","1.2.0", :repo => "slantview/puppet-sublime_text"
 github "virtualbox",  "1.0.3"
