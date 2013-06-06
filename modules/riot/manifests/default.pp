@@ -24,9 +24,12 @@ class riot::default {
 
   # League of Legends 
   include league_of_legends::na
+  include league_of_legends::pbe
 
   # dev tools
   include phpstorm
+  include rubymine
+  include intellij
   include csshx
   include tower
   include sublime_text

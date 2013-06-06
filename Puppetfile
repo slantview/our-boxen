@@ -60,6 +60,8 @@ github "skitch",      "1.0.1"
 github "hipchat",     "1.0.4"
 github "colloquy",    "1.0.0"
 github "phpstorm",    "1.0.3"
+github "rubymine",    "1.0.1"
+github "intellij",    "1.2.0"
 github "csshx",       "1.0.0"
 github "vmware_fusion","1.0.0"
 
